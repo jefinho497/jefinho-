@@ -1,5 +1,5 @@
 # Bem vindo ao meu perfil 🚜
-Estou estudando na Alura 
+Meu nome é Jeferson Brauna Severio 
 Utilizo esse espaço para organizar os meus projetos
 
 # Voçe pode entra em conta comigo 📫
