@@ -1,9 +1,9 @@
 # Bem vindo ao meu perfil 🚜
-Meu nome é Jeferson Brauna Severio 
+ Meu nome é Jeferson Brauna Severio 
 
-Utilizo esse espaço para organizar os meus projetos
+ Utilizo esse espaço para organizar os meus projetos
 
-Estou estudando na Alura
+ Estou estudando na Alura
 
 # Voçe pode entra em conta comigo 📫
 📧 jefersonbrauna209@gmail.com
